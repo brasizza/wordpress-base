@@ -1,0 +1,45 @@
+/*
+ * Customizer Controls CSS
+ *
+ * Adjusts styling for theme option controls in the Customizer
+ *
+ * @package Donovan
+ */
+
+.customize-control-checkbox {
+	margin-bottom: 4px;
+}
+
+#customize-control-donovan_theme_options-retina_logo,
+#customize-control-donovan_theme_options-site_description,
+#customize-control-donovan_theme_options-theme_links,
+#customize-control-donovan_theme_options-pro_version,
+#customize-control-donovan_theme_options-magazine_blocks {
+	margin-bottom: 16px;
+}
+
+#customize-control-donovan_theme_options-sidebar_position,
+#customize-control-donovan_theme_options-blog_description,
+#customize-control-donovan_theme_options-blog_layout,
+#customize-control-donovan_theme_options-blog_content,
+#customize-control-donovan_theme_options-excerpt_length,
+#customize-control-donovan_theme_options-read_more_text,
+#customize-control-donovan_theme_options-single_post,
+#customize-control-donovan_theme_options-featured_images {
+	margin-top: 16px;
+}
+
+#customize-control-donovan_theme_options-retina_logo_title,
+#customize-control-donovan_theme_options-post_details,
+#customize-control-donovan_theme_options-single_post,
+#customize-control-donovan_theme_options-featured_images {
+	margin-bottom: 0;
+}
+
+#customize-control-donovan_theme_options-blog_content {
+	padding: 0;
+}
+
+#customize-control-donovan_theme_options-blog_description textarea {
+	height: 4em;
+}
